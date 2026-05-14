@@ -42,3 +42,8 @@ build/
 *.jar
 *.war
 *.ear
+*.tmp
+*.swp
+Thumbs.db
+.env*
+.gradle/
